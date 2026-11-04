@@ -1,10 +1,14 @@
+<div align="center">
+
 # LRX 2
 
-> Segunda área de experimentação e evolução de conceitos digitais.
+<p>Segunda exploração visual do conceito LRX.</p>
 
-![documentação](https://img.shields.io/badge/documenta%C3%A7%C3%A3o-8B5CF6?style=flat-square&labelColor=111827) ![público](https://img.shields.io/badge/p%C3%BAblico-8B5CF6?style=flat-square&labelColor=111827)
+<img alt="Documentação" src="https://img.shields.io/badge/Documenta%C3%A7%C3%A3o-475569?style=for-the-badge&logo=markdown&logoColor=white" />
 
-**Área:** lab
+<sub>PROJETO · PAULO MATHEUS</sub>
+
+</div>
 
 ---
 

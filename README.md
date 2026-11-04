@@ -1,14 +1,10 @@
-<div align="center">
+# LRX 2
 
-<sub>AUTOMOTIVO</sub>
+> Segunda área de experimentação e evolução de conceitos digitais.
 
-<h1>LRX 2</h1>
+![documentação](https://img.shields.io/badge/documenta%C3%A7%C3%A3o-8B5CF6?style=flat-square&labelColor=111827) ![público](https://img.shields.io/badge/p%C3%BAblico-8B5CF6?style=flat-square&labelColor=111827)
 
-<p>Documentação inicial · Código ainda não publicado neste repositório.</p>
-
-<p><a href="#situação-do-repositório">Situação do repositório</a> &nbsp;·&nbsp; <a href="#acessar-o-repositório">Acessar o repositório</a> &nbsp;·&nbsp; <a href="#próximos-passos">Próximos passos</a> &nbsp;·&nbsp; <a href="#colaboração">Colaboração</a></p>
-
-</div>
+**Área:** lab
 
 ---
 

@@ -9,3 +9,6 @@ O repositório ainda não recebeu os arquivos de código. No momento, ele regist
 ## Etapa seguinte
 
 Definir quais elementos da primeira proposta serão mantidos e reunir textos e imagens aprovados antes de iniciar a implementação.
+---
+
+<p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>

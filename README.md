@@ -1,7 +1,18 @@
 # LRX — segunda versão
 
-Uma segunda direção visual para o conceito LRX, voltado a serviços automotivos.
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
+</p>
 
-Este repositório serve para manter a alternativa separada da primeira proposta. Ainda não há código da aplicação aqui. A escolha do visual e do conteúdo depende de uma revisão com o responsável pelo negócio.
+<p><sub>Tecnologias previstas para implementação.</sub></p>
+Esta é uma segunda direção visual que montei para o projeto LRX, voltado a serviços automotivos.
+
+## Por que manter outra versão
+
+Deixei a proposta separada para comparar o estilo e a organização com a primeira alternativa antes de escolher o caminho definitivo. Os textos, serviços e imagens ainda precisam ser confirmados com o responsável.
+
+O código da aplicação não está neste repositório. A stack inicial prevista é HTML, CSS e JavaScript.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>

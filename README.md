@@ -15,4 +15,8 @@ Deixei a proposta separada para comparar o estilo e a organização com a primei
 
 O código da aplicação não está neste repositório. A stack inicial prevista é HTML, CSS e JavaScript.
 
+## Continuidade do projeto
+
+Esta alternativa deve ser avaliada junto com a primeira versão do LRX. A decisão final depende do conteúdo aprovado e da direção visual que melhor apresentar os serviços; depois disso, o código escolhido pode ser organizado no repositório correspondente.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>

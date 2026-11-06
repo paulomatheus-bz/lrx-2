@@ -6,7 +6,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
 </p>
 
-<p><sub>Tecnologias previstas para implementação.</sub></p>
+<p><sub>Stack planejada para esta versão.</sub></p>
 Esta é uma segunda direção visual que montei para o projeto LRX, voltado a serviços automotivos.
 
 ## Por que manter outra versão

@@ -2,8 +2,6 @@
 
 # LRX — segunda versão
 
-*Esta é uma segunda direção visual que montei para o projeto LRX, voltado a serviços automotivos.*
-
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -11,6 +9,10 @@
 </p>
 
 </div>
+
+Esta é uma segunda direção visual que montei para o projeto LRX, voltado a serviços automotivos.
+
+---
 
 <p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
 ## Por que manter outra versão

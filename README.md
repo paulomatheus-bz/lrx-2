@@ -10,12 +10,12 @@
 
 </div>
 
-Segunda proposta visual para o projeto automotivo LRX.
+Segunda proposta visual para o projeto LRX.
 
 ---
 
-Segunda proposta visual para o LRX. Ela fica separada da primeira para facilitar a comparação entre estilos e organização das informações.
+Segunda alternativa visual para o LRX, mantida separada para comparar com a primeira. Ainda não há código neste repositório.
 
-O código ainda não está neste repositório. A stack prevista é HTML, CSS e JavaScript; serviços, textos e imagens precisam ser confirmados com a empresa antes de uma versão final.
+A stack prevista é HTML, CSS e JavaScript. Serviços e imagens precisam ser confirmados com a empresa.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>

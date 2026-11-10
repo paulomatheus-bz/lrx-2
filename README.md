@@ -10,19 +10,12 @@
 
 </div>
 
-Esta é uma segunda direção visual que montei para o projeto LRX, voltado a serviços automotivos.
+Segunda proposta visual para o projeto automotivo LRX.
 
 ---
 
-<p><sub>Stack planejada; o código ainda não está neste repositório.</sub></p>
-## Por que manter outra versão
+Segunda proposta visual para o LRX. Ela fica separada da primeira para facilitar a comparação entre estilos e organização das informações.
 
-Deixei a proposta separada para comparar o estilo e a organização com a primeira alternativa antes de escolher o caminho definitivo. Os textos, serviços e imagens ainda precisam ser confirmados com o responsável.
-
-O código da aplicação não está neste repositório. A stack inicial prevista é HTML, CSS e JavaScript.
-
-## Comparação com a primeira proposta
-
-Esta alternativa deve ser avaliada junto com a primeira versão do LRX. A decisão final depende do conteúdo aprovado e da direção visual que melhor apresentar os serviços; depois disso, o código escolhido pode ser organizado no repositório correspondente.
+O código ainda não está neste repositório. A stack prevista é HTML, CSS e JavaScript; serviços, textos e imagens precisam ser confirmados com a empresa antes de uma versão final.
 
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>

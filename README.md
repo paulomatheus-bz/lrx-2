@@ -18,4 +18,9 @@ Segunda alternativa visual para o LRX, mantida separada para comparar com a prim
 
 A stack prevista é HTML, CSS e JavaScript. Serviços e imagens precisam ser confirmados com a empresa.
 
+
+## Alternativa de identidade
+
+Segunda direção visual do projeto LRX para avaliação antes da escolha de uma versão definitiva.
+
 <p align="center"><sub>Desenvolvido por <a href="https://github.com/paulomatheus-bz">Paulo Matheus</a></sub></p>
